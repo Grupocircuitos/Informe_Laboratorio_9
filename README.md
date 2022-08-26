@@ -159,6 +159,7 @@ Para realizar el cálculo de error, se calcula el porcentaje de error tanto en m
 
 5. VIDEO
 
+https://www.youtube.com/watch?v=dr-cwpDCLEE&ab_channel=GabrielAlexander
 
 6. CONCLUSIONES
 
