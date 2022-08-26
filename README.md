@@ -28,7 +28,7 @@ Material y Equipo Requerido
 
 Procedimiento
 
-8.5.1. Transforme a su forma polar:
+9.5.1. Transforme a su forma polar:
 
 a) 2 + 3j=
 
@@ -47,7 +47,7 @@ d) -6 – 3,2 j =
 
 ![image](https://user-images.githubusercontent.com/105887502/186931605-921f2078-f1bf-4c10-bf4d-32cd3b7fd64a.png)
 
-8.5.2 Transformar a su forma rectangular:
+9.5.2. Transformar a su forma rectangular:
 
 a) 36 | -10° =
 
@@ -65,7 +65,7 @@ d) 45 | -117,9° =
 
 ![image](https://user-images.githubusercontent.com/105887502/186931784-e2b59f59-942c-4102-a902-c2739276a1d1.png)
 
-8.5.3. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.
+9.5.3. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.
 
 ![image](https://user-images.githubusercontent.com/105887502/186931823-ba2c3755-167e-4cf9-8100-a80d32754eef.png)
 
@@ -109,7 +109,7 @@ Transformando la expresión en forma rectangular se tiene:
 
 ![image](https://user-images.githubusercontent.com/105887502/186932780-5138ef81-3d6d-4fb6-9963-7fa310a28a56.png)
 
-8.5.4 Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.
+9.5.4 Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.
 
 Transformando de rectangulares a polares
 
