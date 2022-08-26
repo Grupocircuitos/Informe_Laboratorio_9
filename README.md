@@ -87,21 +87,88 @@ Ahora transformando a forma polar se tiene
 
 ![image](https://user-images.githubusercontent.com/105887502/186932052-2ae318af-a79b-46db-a494-e2209a4b6d5e.png)
 
+Como mayoritariamente la expresión se encuentra en forma polar el denominador de la segunda expresión la pasó a su forma polar.
+
+![image](https://user-images.githubusercontent.com/105887502/186932463-72846f1a-2949-4a7d-b4aa-3bb8b8ebbb47.png)
+
+En el caso del segundo fasor la división se resuelve dividiendo los primeros términos del numerador y denominador y en el segundo término se resta el numerador y numerador.
+
+![image](https://user-images.githubusercontent.com/105887502/186932501-9545d077-089b-423c-a7cf-7fdcf2acaaa8.png)
+
+Ahora se transforma cada fasor en forma rectangular para efectos de calculo puesto que fasores en forma polar no se pueden sumar.
+
+![image](https://user-images.githubusercontent.com/105887502/186932670-cb92c8e6-6a07-4d2b-8fd4-b065546592b5.png)
+
+Ahora transformando a forma polar se tiene
+
+![image](https://user-images.githubusercontent.com/105887502/186932722-a8fc5985-aef2-4dbb-9e56-3b66206d603e.png)
+
+![image](https://user-images.githubusercontent.com/105887502/186932737-a02a2165-c2f2-4099-98ad-2f2af3c35861.png)
+
+Transformando la expresión en forma rectangular se tiene:
+
+![image](https://user-images.githubusercontent.com/105887502/186932780-5138ef81-3d6d-4fb6-9963-7fa310a28a56.png)
+
+8.5.4 Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.
+
+Transformando de rectangulares a polares
+
+Párrafo 2 + 3 j
+
+![image](https://user-images.githubusercontent.com/105887502/186932873-80c4f90e-048e-4fc2-a2b8-a0ddb2d723fc.png)
+
+Para -8 + 6,2 j
+
+![image](https://user-images.githubusercontent.com/105887502/186933823-41c746ae-de11-4dbe-8e2e-d2721ef2ff4a.png)
+
+Párr. 4.3 – 2.8j
+
+![image](https://user-images.githubusercontent.com/105887502/186933883-2fd3f081-404c-4518-ade3-615581a27638.png)
+
+Párrafo -6 – 3.2j
+
+![image](https://user-images.githubusercontent.com/105887502/186933927-3536dac2-493f-4ae7-840f-27dac104b8a1.png)
+
+Transformando de polares a rectangulares
+
+Párrafo 36 | -10°
+
+![image](https://user-images.githubusercontent.com/105887502/186933997-307a0fb6-7929-4ffb-bbdf-d15492b9b890.png)
+
+Párrafo 28.7 | 135°
+
+![image](https://user-images.githubusercontent.com/105887502/186934031-21566936-0ca4-4ebe-a77d-1cde5a2b1e8f.png)
+
+Párrafo 11.2 | 28°
+
+![image](https://user-images.githubusercontent.com/105887502/186934082-dab29628-5f93-4507-95eb-cd0dab06209d.png)
+
+Párrafo 45 | -117,9°
+
+![image](https://user-images.githubusercontent.com/105887502/186934137-c663a5e0-d919-4c52-ab53-fad6d244e268.png)
+
+4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR
+
+Cálculo de error
+
+![image](https://user-images.githubusercontent.com/105887502/186934853-e456501c-c7f1-499f-9be8-c9cfd9a73b4a.png)
+
+Para realizar el cálculo de error, se calcula el porcentaje de error tanto en magnitud como en los ángulos y se saca el valor promedio de dicho porcentaje de error.
+
+![image](https://user-images.githubusercontent.com/105887502/186934907-db5eb044-75da-4c51-b6eb-6f707b99a49d.png)
+
+5. VIDEO
 
 
+6. CONCLUSIONES
 
+- Dentro de las dos formas de transformación que pueden ocurrir para los números complejos se encuentran la forma rectangular-polar y polar-rectangular. Entre estas dos formas siempre va a ser más factible transformar de polar a rectangular porque así con las coordenadas rectangulares se nos facilitan mejores algunos cálculos.
+- Los números complejos dentro de los fasores son importantes dado que, un fasor es un número complejo que representa la magnitud y la fase de una senoide. Es importante mencionar que los circuitos de voltaje y corriente alterna son excitados por fuentes senoidales. Una senoide es una señal que tiene la forma de la función seno o coseno. Y por lo tanto tenemos los cambios o transformaciones para calcular voltaje y corrientes con sus respectivos números complejos y representaciones.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+7.BIBLIOGRAFÍA
+- Dorf, R., Svoboda J. Circuitos Eléctricos, 8va edición, sección 10.8: "Leyes de Kirchhoff utilizando fasores".
+- Dorf, R., Svoboda J. Circuitos Eléctricos, 8va edición, sección 10.9: "Análisis de tensiones en mallas y de corrientes en nodos usando fasores".
+- Borgetto, M. (24 de septiembre de 2016). FASORES. Obtenido de https://www.frro.utn.edu.ar/repositorio/catedras/basicas/fisica2/files/UTN-CORRIENTE%20ALTERNA.pdf
+- Obando, L. (08 de abril de 2019). Representación Fasorial de corrientes y voltajes – Fasores. Obtenido de https://dademuch.com/2019/04/08/representacion-fasorial-de-corrientes-y-voltajes-fasores/
+- Orallo, C., Donato, PG y Carugati, I. (11 de marzo de 2018). Obtenido de https://www.editores-srl.com.ar/revistas/ie/329/medicion_fasorial
 
