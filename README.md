@@ -1,4 +1,5 @@
-# Informe_Laboratorio_8
+# Informe_Laboratorio_9
+
 Integrantes: Cela Lizz, Gutierrez Juan, Manosalvas Gabriel.
 
 PRÁCTICA N° 9 FASORES.
